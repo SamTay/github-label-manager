@@ -1,0 +1,7 @@
+{
+  "repository": "github-label-manager",
+  "owner": "SamTay",
+  "token": "",
+  "packages_to_add": "packages/samtay/*.json",
+  "packages_to_remove": "packages/default.json"
+}
