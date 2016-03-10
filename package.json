@@ -1,0 +1,8 @@
+{
+  "name": "label-manager",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "git-label": "^4.1.1"
+  }
+}
