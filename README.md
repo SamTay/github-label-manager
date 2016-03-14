@@ -24,4 +24,4 @@ There should be no code changes necessary. To use this manager, simply modify th
   "packages_to_remove": "packages/default.json"
 }
 ```
-and then run ``node index.js``. With the configuration above, if your github token had access to this repository, the manager would delete the default labels and add all the labels found under the ``packages/samtay/`` directory.
+and then run ``node .``. With the configuration above, if your github token had access to this repository, the manager would delete the default labels and add all the labels found under the ``packages/samtay/`` directory.
